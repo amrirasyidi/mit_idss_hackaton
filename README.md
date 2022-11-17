@@ -31,19 +31,19 @@ Weak correlation does not imply weak predictor.
 # Modelling and Result
 
 <p align="center">
-<img src="xgb_logreg_accuracy.png">
+<img src="images/xgb_logreg_accuracy.png">
 </p>
 
 XGBoost perform significantly better on combined training dataset compared to logistic regression.
 
 <p align="center">
-<img src="xgb_feat_importance.png">
+<img src="images/xgb_feat_importance.png">
 </p>
 
 Feature importance plot indicates that `seat_comfort` is the most importance feature and `catering` is the least importance one.
 
 <p align="center">
-<img src="dl_accuracy.png">
+<img src="images/dl_accuracy.png">
 </p>
 
 Deep learning training history.
